@@ -25,7 +25,7 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 - Authentication
 ---
 
-#💻 Frontend Kullanımı (Basit Arayüz)
+💻 Frontend Kullanımı (Basit Arayüz)
 index.html dosyasını tarayıcıda aç:
 
 Giriş yap
