@@ -1,4 +1,4 @@
-##JWT ile Dosya Yükleme API
+
 # 📁 ASP.NET Core Web API – JWT Kimlik Doğrulamalı Dosya Yükleme Sistemi
 
 Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim sistemidir. Uygulama kullanıcı kaydı ve girişi için JWT kimlik doğrulaması içerir. Giriş yapan kullanıcılar sunucuya dosya yükleyebilir, yüklenen dosyaları listeleyebilir ve silebilir.
