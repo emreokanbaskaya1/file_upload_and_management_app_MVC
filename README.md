@@ -38,10 +38,6 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 
 ## 📁 Klasör Yapısı
 
-
-
-
-
 proje_okan/
 ├── Controllers/
 │   ├── AuthController.cs
