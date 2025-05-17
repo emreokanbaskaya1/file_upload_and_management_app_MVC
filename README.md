@@ -25,20 +25,23 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 - Authentication
 ---
 
-#💻 Frontend Kullanımı (Basit Arayüz)
+## 💻 Frontend Kullanımı (Basit Arayüz)
 
-index.html dosyasını tarayıcıda aç:
+`index.html` dosyasını tarayıcıda aç:
 
-Giriş yap
+- Giriş yap  
+- Dosya yükle  
+- Yüklenen dosyaları listele  
+- Tek tıkla sil  
 
-Dosya yükle
+---
 
-Yüklenen dosyaları listele
-
-Tek tıkla sil
+## 📁 Klasör Yapısı
 
 
-##📁 Klasör Yapısı
+
+
+
 proje_okan/
 ├── Controllers/
 │   ├── AuthController.cs
