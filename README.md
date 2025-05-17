@@ -16,7 +16,7 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 
 ---
 
-## ⚙️ Kullanılan Teknolojiler
+# ⚙️ Kullanılan Teknolojiler
 
 - ASP.NET Core 8 Web API
 - Swagger (Swashbuckle)
@@ -24,7 +24,7 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 - Basit HTML & JS frontend
 - Authentication
 
-##💻 Frontend Kullanımı (Basit Arayüz)
+#💻 Frontend Kullanımı (Basit Arayüz)
 index.html dosyasını tarayıcıda aç:
 
 Giriş yap
