@@ -34,21 +34,4 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 - Yüklenen dosyaları listele  
 - Tek tıkla sil  
 
----
 
-## 📁 Klasör Yapısı
-
-proje_okan/
-├── Controllers/
-│   ├── AuthController.cs
-│   └── FilesController.cs
-├── Models/
-│   ├── RegisterModel.cs
-│   └── UploadModel.cs
-├── Services/
-│   ├── IUserService.cs
-│   └── UserService.cs
-├── appsettings.json
-├── Program.cs
-├── index.html
-└── README.md
