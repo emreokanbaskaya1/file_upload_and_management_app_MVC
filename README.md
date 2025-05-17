@@ -23,6 +23,7 @@ Bu proje, ASP.NET Core Web API kullanılarak geliştirilmiş bir dosya yönetim 
 - JWT (JSON Web Tokens)
 - Basit HTML & JS frontend
 - Authentication
+---
 
 #💻 Frontend Kullanımı (Basit Arayüz)
 index.html dosyasını tarayıcıda aç:
